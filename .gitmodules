@@ -1,0 +1,9 @@
+[submodule "discord_bot"]
+	path = discord_bot
+	url = git@github.com:crvideo/discord_bot.git
+[submodule "raincoat"]
+	path = raincoat
+	url = git@github.com:crvideo/raincoat.git
+[submodule "MovieInfo"]
+	path = MovieInfo
+	url = git@github.com:crvideo/MovieInfo.git
