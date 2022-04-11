@@ -1,6 +1,8 @@
 # discord_query_bot
 
 # First of All
+This is based on [Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture). Thanks for their excellent jobs.
+
 See Readme in [discord_bot]
 
 
